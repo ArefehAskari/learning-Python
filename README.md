@@ -1,8 +1,3 @@
-برای رفتن به ریپازیتوری دیگر، بالا سمت چپ روی اسم خودت (`ArefehAskari`) یا اسم ریپازیتوری فعلی (`python-games`) کلیک کن تا منوی کشویی باز شود، یا به صفحه‌ی پروفایلت برو و از تب **Repositories** روی `learning-Python` بزن.
-
-برای فایل `README.md` مخزن `learning-Python` هم متن خوشگل و ساختاریافته‌ی زیر را کپی کن:
-
-```markdown
 # Learning Python 🐍
 
 A structured collection of my Python learning journey, exercises, and small practice scripts as I master programming concepts.
@@ -18,4 +13,3 @@ A structured collection of my Python learning journey, exercises, and small prac
 - Build a strong foundation in Python programming.
 - Practice clean code, functions, and logic building daily.
 - Share my progress publicly on GitHub.
-```
